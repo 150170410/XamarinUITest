@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:UITestSample"
+             x:Class="UITestSample.MainPage">
+  <StackLayout Orientation="Vertical">
+    <Label VerticalOptions="Center"
+             HorizontalOptions="Center" x:Name="lblHello"  AutomationId="lblHello"/>
+    <Button VerticalOptions="Center"
+             HorizontalOptions="Center" Text="Say Hello" x:Name="btnHello"  AutomationId="btnHello"></Button>
+  </StackLayout>
+</ContentPage>
