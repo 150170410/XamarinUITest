@@ -30,6 +30,24 @@ namespace UITest
         {
             app.Screenshot("First screen.");
         }
+
+        [Test]
+        public void PressHelloButton()
+        {
+            app.Tap(b => b.Marked("btnHello"));
+            var lblText = app.Query(l => l.Marked("lblHello")).Single().Text;
+            Assert.AreEqual(lblText, "HelloMoto");
+            app.Screenshot("Hello From Moto");
+        }
+
+        [Test]
+        public void PressHelloButton2()
+        {
+            app.Tap(b => b.Marked("btnHello"));
+            var lblText = app.Query(l => l.Marked("lblHello")).Single().Text;
+            Assert.AreEqual(lblText, "HelloMoto2");
+            app.Screenshot("Hello From Moto");
+        }
     }
 }
 

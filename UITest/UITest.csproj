@@ -65,9 +65,9 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UITestSample2\UITestSample2.Droid\UITestSample2.Droid.csproj">
-      <Project>{951ca505-f057-44a4-8c44-d51d9d57156c}</Project>
-      <Name>UITestSample2.Droid</Name>
+    <ProjectReference Include="..\UITestSample\UITestSample.Droid\UITestSample.Droid.csproj">
+      <Project>{3410bc67-4a75-49b7-b636-9bcc31c1fd8b}</Project>
+      <Name>UITestSample.Droid</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

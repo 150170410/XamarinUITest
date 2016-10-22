@@ -14,7 +14,7 @@ namespace UITest
             {
                 return ConfigureApp
                     .Android
-                    .InstalledApp("co.veloxcore.UITestSample2")
+                    .InstalledApp("co.veloxcore.UITestSample")
                     .EnableLocalScreenshots()
                     .StartApp();
             }
