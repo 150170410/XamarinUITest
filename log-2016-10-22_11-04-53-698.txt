@@ -1,0 +1,1738 @@
+22-10-2016 11:04:54.192 +05:30 - 491 - Potential Android SDK location: (No path) - Not set. [ Source: ANDROID_HOME ]
+22-10-2016 11:04:54.216 +05:30 - 516 - Potential Android SDK location: C:\Users\Admin\AppData\Local\Android\android-sdk - Valid SDK. [ Source: Registry ]
+22-10-2016 11:04:54.225 +05:30 - 524 - Potential Android SDK location: C:\Users\Admin\AppData\Local\Android\android-sdk - Valid SDK. [ Source: Registry ]
+22-10-2016 11:04:54.228 +05:30 - 528 - Using Android SDK: C:\Users\Admin\AppData\Local\Android\android-sdk
+22-10-2016 11:04:54.244 +05:30 - 544 - Using JDK: C:\Program Files (x86)\Java\jdk1.7.0_71 [ Source: Registry ]
+22-10-2016 11:04:54.259 +05:30 - 559 - Skipping IDE integration as important properties are configured. To force IDE integration, add .PreferIdeSettings() to ConfigureApp.
+22-10-2016 11:04:54.280 +05:30 - 580 - Android test running Xamarin.UITest version: 2.0.0.1534
+22-10-2016 11:04:54.832 +05:30 - 1131 - Finished with exit code 0 in 518 ms.
+List of devices attached
+ZX1D63GCCL	device
+
+
+22-10-2016 11:04:54.956 +05:30 - 1256 - Potential Android SDK location: (No path) - Not set. [ Source: ANDROID_HOME ]
+22-10-2016 11:04:54.962 +05:30 - 1261 - Potential Android SDK location: C:\Users\Admin\AppData\Local\Android\android-sdk - Valid SDK. [ Source: Registry ]
+22-10-2016 11:04:54.965 +05:30 - 1265 - Potential Android SDK location: C:\Users\Admin\AppData\Local\Android\android-sdk - Valid SDK. [ Source: Registry ]
+22-10-2016 11:04:54.967 +05:30 - 1267 - Using Android SDK: C:\Users\Admin\AppData\Local\Android\android-sdk
+22-10-2016 11:04:54.973 +05:30 - 1273 - Using JDK: C:\Program Files (x86)\Java\jdk1.7.0_71 [ Source: Registry ]
+22-10-2016 11:04:55.466 +05:30 - 1766 - Finished with exit code 0 in 489 ms.
+23
+
+
+22-10-2016 11:04:55.515 +05:30 - 1815 - Device sdk version 23.
+22-10-2016 11:04:55.669 +05:30 - 1969 - Initializing Android app on device ZX1D63GCCL with installed app: co.veloxcore.UITestSample2
+22-10-2016 11:04:55.759 +05:30 - 2059 - Artifact folder: C:\Users\Admin\AppData\Local\Temp\uitest\a-3E00B2B5780DEE313B24D115AC2407BBCABA9C90
+22-10-2016 11:04:55.805 +05:30 - 2105 - Using cached artifact: screenshotTaker.jar
+22-10-2016 11:04:55.934 +05:30 - 2234 - Signing apk with Xamarin keystore.
+22-10-2016 11:04:57.032 +05:30 - 3331 - Finished with exit code 0 in 1013 ms.
+Alias name: androiddebugkey
+Creation date: Jun 24, 2016
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 3c4414f7
+Valid from: Fri Jun 24 15:46:13 IST 2016 until: Sun Jun 17 15:46:13 IST 2046
+Certificate fingerprints:
+	 MD5:  56:AA:22:BE:0F:C4:31:C2:8C:32:70:64:EE:C0:F1:92
+	 SHA1: A5:BC:B9:4D:F1:E0:D3:19:32:9E:64:C5:AE:7D:ED:59:9F:F4:D7:BB
+	 SHA256: C4:02:55:3A:67:6D:1E:0E:84:1A:0E:68:0A:A7:DF:38:A5:F9:D9:56:A1:16:DD:9B:50:F0:0F:63:D0:07:3E:EF
+	 Signature algorithm name: SHA256withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F7 23 BD E5 A1 C9 B5 AF   14 98 D5 CC 0C D0 89 7E  .#..............
+0010: D3 22 ED 4B                                        .".K
+]
+]
+
+
+22-10-2016 11:04:57.793 +05:30 - 4093 - Finished with exit code 0 in 740 ms.
+Alias name: androiddebugkey
+Creation date: Jun 24, 2016
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 3c4414f7
+Valid from: Fri Jun 24 15:46:13 IST 2016 until: Sun Jun 17 15:46:13 IST 2046
+Certificate fingerprints:
+	 MD5:  56:AA:22:BE:0F:C4:31:C2:8C:32:70:64:EE:C0:F1:92
+	 SHA1: A5:BC:B9:4D:F1:E0:D3:19:32:9E:64:C5:AE:7D:ED:59:9F:F4:D7:BB
+	 SHA256: C4:02:55:3A:67:6D:1E:0E:84:1A:0E:68:0A:A7:DF:38:A5:F9:D9:56:A1:16:DD:9B:50:F0:0F:63:D0:07:3E:EF
+	 Signature algorithm name: SHA256withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F7 23 BD E5 A1 C9 B5 AF   14 98 D5 CC 0C D0 89 7E  .#..............
+0010: D3 22 ED 4B                                        .".K
+]
+]
+
+
+22-10-2016 11:04:57.825 +05:30 - 4125 - Using cached artifact: SignedTestServer.apk
+22-10-2016 11:04:57.840 +05:30 - 4139 - Signed test server apk: C:\Users\Admin\AppData\Local\Temp\uitest\a-3E00B2B5780DEE313B24D115AC2407BBCABA9C90\SignedTestServer.apk
+22-10-2016 11:04:57.853 +05:30 - 4153 - Using cached artifact: FinalTestServer.apk
+22-10-2016 11:05:00.014 +05:30 - 6313 - Finished with exit code 0 in 2144 ms.
+package:/data/app/com.skype.raider-2/base.apk=com.skype.raider
+
+package:/data/app/com.google.android.youtube-1/base.apk=com.google.android.youtube
+
+package:/system/priv-app/MotoCare/MotoCare.apk=com.motorola.motocare
+
+package:/system/priv-app/TelephonyProvider/TelephonyProvider.apk=com.android.providers.telephony
+
+package:/system/app/MediaShortcuts/MediaShortcuts.apk=com.google.android.gallery3d
+
+package:/data/app/com.google.android.googlequicksearchbox-1/base.apk=com.google.android.googlequicksearchbox
+
+package:/system/priv-app/CalendarProvider/CalendarProvider.apk=com.android.providers.calendar
+
+package:/system/priv-app/MediaProvider/MediaProvider.apk=com.android.providers.media
+
+package:/system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk=com.google.android.onetimeinitializer
+
+package:/system/app/Bug2GoStub/Bug2GoStub.apk=com.motorola.bug2go
+
+package:/data/app/com.motorola.camera-1/base.apk=com.motorola.camera
+
+package:/system/priv-app/WallpaperCropper/WallpaperCropper.apk=com.android.wallpapercropper
+
+package:/system/priv-app/3c_devicemanagement/3c_devicemanagement.apk=com.motorola.ccc.devicemanagement
+
+package:/system/app/FMRadioService/FMRadioService.apk=com.motorola.android.fmradio
+
+package:/system/app/DocumentsUI/DocumentsUI.apk=com.android.documentsui
+
+package:/system/app/com.motorola.android.settings.modemdebug/com.motorola.android.settings.modemdebug.apk=com.motorola.android.settings.modemdebug
+
+package:/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk=com.android.externalstorage
+
+package:/system/app/HTMLViewer/HTMLViewer.apk=com.android.htmlviewer
+
+package:/system/priv-app/MmsService/MmsService.apk=com.android.mms.service
+
+package:/system/priv-app/DownloadProvider/DownloadProvider.apk=com.android.providers.downloads
+
+package:/system/priv-app/CoreSettingsExt/CoreSettingsExt.apk=com.motorola.coresettingsext
+
+package:/system/priv-app/WapPushSI/WapPushSI.apk=com.motorola.wappushsi
+
+package:/system/app/com.motorola.android.settings.diag_mdlog/com.motorola.android.settings.diag_mdlog.apk=com.motorola.android.settings.diag_mdlog
+
+package:/system/priv-app/3c_checkin/3c_checkin.apk=com.motorola.ccc.checkin
+
+package:/system/app/3c_main/3c_main.apk=com.motorola.ccc.mainplm
+
+package:/data/app/co.veloxcore.UITestSample2.test-1/base.apk=co.veloxcore.UITestSample2.test
+
+package:/system/app/MotGeoFenceSvc/MotGeoFenceSvc.apk=com.motorola.motgeofencesvc
+
+package:/system/priv-app/ConfigUpdater/ConfigUpdater.apk=com.google.android.configupdater
+
+package:/system/priv-app/3c_ota/3c_ota.apk=com.motorola.ccc.ota
+
+package:/system/priv-app/3c_notification/3c_notification.apk=com.motorola.ccc.notification
+
+package:/system/priv-app/DefaultContainerService/DefaultContainerService.apk=com.android.defcontainer
+
+package:/system/app/com.qualcomm.services.location/com.qualcomm.services.location.apk=com.qualcomm.services.location
+
+package:/data/app/Mono.Android.DebugRuntime-1/base.apk=Mono.Android.DebugRuntime
+
+package:/system/app/DownloadProviderUi/DownloadProviderUi.apk=com.android.providers.downloads.ui
+
+package:/data/app/com.android.vending-1/base.apk=com.android.vending
+
+package:/data/app/XamarinUITest.Droid-1/base.apk=XamarinUITest.Droid
+
+package:/system/app/PacProcessor/PacProcessor.apk=com.android.pacprocessor
+
+package:/system/priv-app/BodyGuardApp/BodyGuardApp.apk=com.motorola.bodyguard
+
+package:/data/app/com.flipkart.android-1/base.apk=com.flipkart.android
+
+package:/system/app/CertInstaller/CertInstaller.apk=com.android.certinstaller
+
+package:/system/priv-app/CarrierConfig/CarrierConfig.apk=com.android.carrierconfig
+
+package:/data/app/com.google.android.marvin.talkback-2/base.apk=com.google.android.marvin.talkback
+
+package:/system/framework/framework-res.apk=android
+
+package:/system/priv-app/Contacts/Contacts.apk=com.android.contacts
+
+package:/system/priv-app/OMAProvisioning/OMAProvisioning.apk=com.motorola.android.provisioning
+
+package:/system/priv-app/ContextEngineClient/ContextEngineClient.apk=com.motorola.context
+
+package:/data/app/com.google.android.apps.inputmethod.hindi-1/base.apk=com.google.android.apps.inputmethod.hindi
+
+package:/system/priv-app/Mms/Mms.apk=com.android.mms
+
+package:/system/app/Stk/Stk.apk=com.android.stk
+
+package:/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk=com.android.backupconfirm
+
+package:/data/app/com.instagram.android-1/base.apk=com.instagram.android
+
+package:/data/app/com.google.android.launcher-1/base.apk=com.google.android.launcher
+
+package:/data/app/com.google.android.deskclock-2/base.apk=com.google.android.deskclock
+
+package:/system/priv-app/StatementService/StatementService.apk=com.android.statementservice
+
+package:/data/app/com.google.android.gm-2/base.apk=com.google.android.gm
+
+package:/system/priv-app/Moodles/Moodles.apk=com.motorola.moodles
+
+package:/system/priv-app/CQATest/CQATest.apk=com.motorola.motocit
+
+package:/system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk=com.android.wallpaper.holospiral
+
+package:/system/app/PhaseBeam/PhaseBeam.apk=com.android.phasebeam
+
+package:/system/priv-app/SetupWizard/SetupWizard.apk=com.google.android.setupwizard
+
+package:/system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk=com.qualcomm.qcrilmsgtunnel
+
+package:/system/priv-app/SettingsProvider/SettingsProvider.apk=com.android.providers.settings
+
+package:/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk=com.android.sharedstoragebackup
+
+package:/data/app/com.google.android.music-1/base.apk=com.google.android.music
+
+package:/system/app/PrintSpooler/PrintSpooler.apk=com.android.printspooler
+
+package:/system/priv-app/SEPolicyUpdate/SEPolicyUpdate.apk=com.motorola.android.sepolicyupdate
+
+package:/system/app/BasicDreams/BasicDreams.apk=com.android.dreams.basic
+
+package:/data/app/com.motorola.MotGallery2-1/base.apk=com.motorola.MotGallery2
+
+package:/system/priv-app/InputDevices/InputDevices.apk=com.android.inputdevices
+
+package:/data/app/com.estrongs.android.pop-2/base.apk=com.estrongs.android.pop
+
+package:/system/app/com.motorola.android.nativedropboxagent/com.motorola.android.nativedropboxagent.apk=com.motorola.android.nativedropboxagent
+
+package:/system/priv-app/CallLogBackup/CallLogBackup.apk=com.android.providers.calllogbackup
+
+package:/data/app/co.esconsulting.Barcoder250-1/base.apk=co.esconsulting.Barcoder250
+
+package:/system/app/com.motorola.android.jvtcmd/com.motorola.android.jvtcmd.apk=com.motorola.android.jvtcmd
+
+package:/data/app/com.google.android.apps.cloudprint-2/base.apk=com.google.android.apps.cloudprint
+
+package:/data/app/com.google.android.apps.docs-1/base.apk=com.google.android.apps.docs
+
+package:/data/app/com.google.android.apps.maps-2/base.apk=com.google.android.apps.maps
+
+package:/data/app/com.google.android.apps.plus-1/base.apk=com.google.android.apps.plus
+
+package:/data/app/Mono.Android.Platform.ApiLevel_23-1/base.apk=Mono.Android.Platform.ApiLevel_23
+
+package:/data/app/Mono.Android.Platform.ApiLevel_24-1/base.apk=Mono.Android.Platform.ApiLevel_24
+
+package:/data/app/net.one97.paytm-2/base.apk=net.one97.paytm
+
+package:/system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk=com.android.cellbroadcastreceiver
+
+package:/data/app/com.google.android.webview-1/base.apk=com.google.android.webview
+
+package:/data/app/com.veloxcore.UITestSample.test-1/base.apk=com.veloxcore.UITestSample.test
+
+package:/data/app/GeolocatorSample.Droid-1/base.apk=GeolocatorSample.Droid
+
+package:/system/priv-app/PreloadContacts/PreloadContacts.apk=com.motorola.contacts.preloadcontacts
+
+package:/system/priv-app/Telecom/Telecom.apk=com.android.server.telecom
+
+package:/system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk=com.google.android.syncadapters.contacts
+
+package:/system/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk=com.motorola.android.providers.settings
+
+package:/system/app/FaceLock/FaceLock.apk=com.android.facelock
+
+package:/system/app/KeyChain/KeyChain.apk=com.android.keychain
+
+package:/data/app/com.android.chrome-1/base.apk=com.android.chrome
+
+package:/system/priv-app/Dialer/Dialer.apk=com.android.dialer
+
+package:/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk=com.google.android.packageinstaller
+
+package:/data/app/com.google.android.gms-2/base.apk=com.google.android.gms
+
+package:/system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk=com.google.android.gsf
+
+package:/data/app/com.google.android.tts-2/base.apk=com.google.android.tts
+
+package:/system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk=com.google.android.partnersetup
+
+package:/data/app/com.motorola.genie-2/base.apk=com.motorola.genie
+
+package:/system/priv-app/SetupWizardExt/SetupWizardExt.apk=com.motorola.setup
+
+package:/data/app/com.google.android.videos-2/base.apk=com.google.android.videos
+
+package:/data/app/com.motorola.contextual.smartrules2-1/base.apk=com.motorola.contextual.smartrules2
+
+package:/system/priv-app/AppDirectedSmsProxy/AppDirectedSmsProxy.apk=com.motorola.appdirectedsmsproxy
+
+package:/system/priv-app/ProxyHandler/ProxyHandler.apk=com.android.proxyhandler
+
+package:/system/priv-app/GoogleFeedback/GoogleFeedback.apk=com.google.android.feedback
+
+package:/data/app/com.google.android.apps.photos-2/base.apk=com.google.android.apps.photos
+
+package:/system/priv-app/UserPreferredSimProvider/UserPreferredSimProvider.apk=com.motorola.android.providers.userpreferredsim
+
+package:/data/app/com.google.android.calendar-2/base.apk=com.google.android.calendar
+
+package:/system/priv-app/MotoOneTimeInitializer/MotoOneTimeInitializer.apk=com.motorola.onetimeinitializer
+
+package:/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk=com.android.managedprovisioning
+
+package:/system/app/LauncherConfig/LauncherConfig.apk=com.motorola.launcherconfig
+
+package:/data/app/com.facebook.katana-2/base.apk=com.facebook.katana
+
+package:/system/priv-app/EmaraPhoneExtns/EmaraPhoneExtns.apk=com.motorola.emaraphoneextns
+
+package:/system/app/NoiseField/NoiseField.apk=com.android.noisefield
+
+package:/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk=com.android.providers.partnerbookmarks
+
+package:/system/priv-app/GoogleLoginService/GoogleLoginService.apk=com.google.android.gsf.login
+
+package:/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk=com.android.wallpaper.livepicker
+
+package:/system/priv-app/MotoCareInt/MotoCareInt.apk=com.motorola.motocare.internal
+
+package:/data/app/com.sbi.SBIFreedomPlus-1/base.apk=com.sbi.SBIFreedomPlus
+
+package:/system/priv-app/StorageOptimizer/StorageOptimizer.apk=com.motorola.storageoptimizer
+
+package:/data/app/com.google.android.inputmethod.korean-1/base.apk=com.google.android.inputmethod.korean
+
+package:/data/app/com.motorola.fmplayer-1/base.apk=com.motorola.fmplayer
+
+package:/data/app/com.google.android.apps.translate-1/base.apk=com.google.android.apps.translate
+
+package:/system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk=com.google.android.backuptransport
+
+package:/system/priv-app/AudioEffects/AudioEffects.apk=com.motorola.audioeffects
+
+package:/system/app/BookmarkProvider/BookmarkProvider.apk=com.android.bookmarkprovider
+
+package:/system/priv-app/Settings/Settings.apk=com.android.settings
+
+package:/data/app/com.google.android.inputmethod.pinyin-1/base.apk=com.google.android.inputmethod.pinyin
+
+package:/data/app/com.axis.mobile-2/base.apk=com.axis.mobile
+
+package:/system/app/Calculator/Calculator.apk=com.android.calculator2
+
+package:/data/app/com.google.android.apps.books-1/base.apk=com.google.android.apps.books
+
+package:/system/app/com.qualcomm.location/com.qualcomm.location.apk=com.qualcomm.location
+
+package:/data/app/cn.xender-2/base.apk=cn.xender
+
+package:/system/priv-app/LMIRescueSecurity/LMIRescueSecurity.apk=com.lmi.motorola.rescuesecurity
+
+package:/data/app/co.veloxcore.UITestSample2-1/base.apk=co.veloxcore.UITestSample2
+
+package:/system/app/LiveWallpapers/LiveWallpapers.apk=com.android.wallpaper
+
+package:/system/priv-app/VpnDialogs/VpnDialogs.apk=com.android.vpndialogs
+
+package:/data/app/com.google.android.talk-2/base.apk=com.google.android.talk
+
+package:/system/priv-app/ModemStatsService/ModemStatsService.apk=com.motorola.bach.modemstats
+
+package:/system/priv-app/Email/Email.apk=com.android.email
+
+package:/system/priv-app/TeleService/TeleService.apk=com.android.phone
+
+package:/system/priv-app/Shell/Shell.apk=com.android.shell
+
+package:/system/app/UserDictionaryProvider/UserDictionaryProvider.apk=com.android.providers.userdictionary
+
+package:/system/priv-app/FusedLocation/FusedLocation.apk=com.android.location.fused
+
+package:/system/priv-app/SystemUI/SystemUI.apk=com.android.systemui
+
+package:/system/app/Exchange2/Exchange2.apk=com.android.exchange
+
+package:/system/app/BluetoothMidiService/BluetoothMidiService.apk=com.android.bluetoothmidiservice
+
+package:/data/app/com.mediamonks.watchface.zoejordan-1/base.apk=com.mediamonks.watchface.zoejordan
+
+package:/data/app/com.google.android.apps.fireball-1/base.apk=com.google.android.apps.fireball
+
+package:/data/app/com.google.android.play.games-2/base.apk=com.google.android.play.games
+
+package:/data/app/com.google.android.apps.magazines-2/base.apk=com.google.android.apps.magazines
+
+package:/system/app/Bluetooth/Bluetooth.apk=com.android.bluetooth
+
+package:/system/app/TimeService/TimeService.apk=com.qualcomm.timeservice
+
+package:/system/priv-app/atfwd/atfwd.apk=com.qualcomm.atfwd
+
+package:/system/priv-app/ContactsProvider/ContactsProvider.apk=com.android.providers.contacts
+
+package:/system/app/CaptivePortalLogin/CaptivePortalLogin.apk=com.android.captiveportallogin
+
+package:/system/priv-app/DMService/DMService.apk=com.motorola.android.dm.service
+
+package:/data/app/com.google.android.inputmethod.latin-2/base.apk=com.google.android.inputmethod.latin
+
+
+22-10-2016 11:05:01.364 +05:30 - 7664 - Finished with exit code 0 in 1338 ms.
+package:/data/app/com.skype.raider-2/base.apk=com.skype.raider
+
+package:/data/app/com.google.android.youtube-1/base.apk=com.google.android.youtube
+
+package:/system/priv-app/MotoCare/MotoCare.apk=com.motorola.motocare
+
+package:/system/priv-app/TelephonyProvider/TelephonyProvider.apk=com.android.providers.telephony
+
+package:/system/app/MediaShortcuts/MediaShortcuts.apk=com.google.android.gallery3d
+
+package:/data/app/com.google.android.googlequicksearchbox-1/base.apk=com.google.android.googlequicksearchbox
+
+package:/system/priv-app/CalendarProvider/CalendarProvider.apk=com.android.providers.calendar
+
+package:/system/priv-app/MediaProvider/MediaProvider.apk=com.android.providers.media
+
+package:/system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk=com.google.android.onetimeinitializer
+
+package:/system/app/Bug2GoStub/Bug2GoStub.apk=com.motorola.bug2go
+
+package:/data/app/com.motorola.camera-1/base.apk=com.motorola.camera
+
+package:/system/priv-app/WallpaperCropper/WallpaperCropper.apk=com.android.wallpapercropper
+
+package:/system/priv-app/3c_devicemanagement/3c_devicemanagement.apk=com.motorola.ccc.devicemanagement
+
+package:/system/app/FMRadioService/FMRadioService.apk=com.motorola.android.fmradio
+
+package:/system/app/DocumentsUI/DocumentsUI.apk=com.android.documentsui
+
+package:/system/app/com.motorola.android.settings.modemdebug/com.motorola.android.settings.modemdebug.apk=com.motorola.android.settings.modemdebug
+
+package:/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk=com.android.externalstorage
+
+package:/system/app/HTMLViewer/HTMLViewer.apk=com.android.htmlviewer
+
+package:/system/priv-app/MmsService/MmsService.apk=com.android.mms.service
+
+package:/system/priv-app/DownloadProvider/DownloadProvider.apk=com.android.providers.downloads
+
+package:/system/priv-app/CoreSettingsExt/CoreSettingsExt.apk=com.motorola.coresettingsext
+
+package:/system/priv-app/WapPushSI/WapPushSI.apk=com.motorola.wappushsi
+
+package:/system/app/com.motorola.android.settings.diag_mdlog/com.motorola.android.settings.diag_mdlog.apk=com.motorola.android.settings.diag_mdlog
+
+package:/system/priv-app/3c_checkin/3c_checkin.apk=com.motorola.ccc.checkin
+
+package:/system/app/3c_main/3c_main.apk=com.motorola.ccc.mainplm
+
+package:/data/app/co.veloxcore.UITestSample2.test-1/base.apk=co.veloxcore.UITestSample2.test
+
+package:/system/app/MotGeoFenceSvc/MotGeoFenceSvc.apk=com.motorola.motgeofencesvc
+
+package:/system/priv-app/ConfigUpdater/ConfigUpdater.apk=com.google.android.configupdater
+
+package:/system/priv-app/3c_ota/3c_ota.apk=com.motorola.ccc.ota
+
+package:/system/priv-app/3c_notification/3c_notification.apk=com.motorola.ccc.notification
+
+package:/system/priv-app/DefaultContainerService/DefaultContainerService.apk=com.android.defcontainer
+
+package:/system/app/com.qualcomm.services.location/com.qualcomm.services.location.apk=com.qualcomm.services.location
+
+package:/data/app/Mono.Android.DebugRuntime-1/base.apk=Mono.Android.DebugRuntime
+
+package:/system/app/DownloadProviderUi/DownloadProviderUi.apk=com.android.providers.downloads.ui
+
+package:/data/app/com.android.vending-1/base.apk=com.android.vending
+
+package:/data/app/XamarinUITest.Droid-1/base.apk=XamarinUITest.Droid
+
+package:/system/app/PacProcessor/PacProcessor.apk=com.android.pacprocessor
+
+package:/system/priv-app/BodyGuardApp/BodyGuardApp.apk=com.motorola.bodyguard
+
+package:/data/app/com.flipkart.android-1/base.apk=com.flipkart.android
+
+package:/system/app/CertInstaller/CertInstaller.apk=com.android.certinstaller
+
+package:/system/priv-app/CarrierConfig/CarrierConfig.apk=com.android.carrierconfig
+
+package:/data/app/com.google.android.marvin.talkback-2/base.apk=com.google.android.marvin.talkback
+
+package:/system/framework/framework-res.apk=android
+
+package:/system/priv-app/Contacts/Contacts.apk=com.android.contacts
+
+package:/system/priv-app/OMAProvisioning/OMAProvisioning.apk=com.motorola.android.provisioning
+
+package:/system/priv-app/ContextEngineClient/ContextEngineClient.apk=com.motorola.context
+
+package:/data/app/com.google.android.apps.inputmethod.hindi-1/base.apk=com.google.android.apps.inputmethod.hindi
+
+package:/system/priv-app/Mms/Mms.apk=com.android.mms
+
+package:/system/app/Stk/Stk.apk=com.android.stk
+
+package:/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk=com.android.backupconfirm
+
+package:/data/app/com.instagram.android-1/base.apk=com.instagram.android
+
+package:/data/app/com.google.android.launcher-1/base.apk=com.google.android.launcher
+
+package:/data/app/com.google.android.deskclock-2/base.apk=com.google.android.deskclock
+
+package:/system/priv-app/StatementService/StatementService.apk=com.android.statementservice
+
+package:/data/app/com.google.android.gm-2/base.apk=com.google.android.gm
+
+package:/system/priv-app/Moodles/Moodles.apk=com.motorola.moodles
+
+package:/system/priv-app/CQATest/CQATest.apk=com.motorola.motocit
+
+package:/system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk=com.android.wallpaper.holospiral
+
+package:/system/app/PhaseBeam/PhaseBeam.apk=com.android.phasebeam
+
+package:/system/priv-app/SetupWizard/SetupWizard.apk=com.google.android.setupwizard
+
+package:/system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk=com.qualcomm.qcrilmsgtunnel
+
+package:/system/priv-app/SettingsProvider/SettingsProvider.apk=com.android.providers.settings
+
+package:/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk=com.android.sharedstoragebackup
+
+package:/data/app/com.google.android.music-1/base.apk=com.google.android.music
+
+package:/system/app/PrintSpooler/PrintSpooler.apk=com.android.printspooler
+
+package:/system/priv-app/SEPolicyUpdate/SEPolicyUpdate.apk=com.motorola.android.sepolicyupdate
+
+package:/system/app/BasicDreams/BasicDreams.apk=com.android.dreams.basic
+
+package:/data/app/com.motorola.MotGallery2-1/base.apk=com.motorola.MotGallery2
+
+package:/system/priv-app/InputDevices/InputDevices.apk=com.android.inputdevices
+
+package:/data/app/com.estrongs.android.pop-2/base.apk=com.estrongs.android.pop
+
+package:/system/app/com.motorola.android.nativedropboxagent/com.motorola.android.nativedropboxagent.apk=com.motorola.android.nativedropboxagent
+
+package:/system/priv-app/CallLogBackup/CallLogBackup.apk=com.android.providers.calllogbackup
+
+package:/data/app/co.esconsulting.Barcoder250-1/base.apk=co.esconsulting.Barcoder250
+
+package:/system/app/com.motorola.android.jvtcmd/com.motorola.android.jvtcmd.apk=com.motorola.android.jvtcmd
+
+package:/data/app/com.google.android.apps.cloudprint-2/base.apk=com.google.android.apps.cloudprint
+
+package:/data/app/com.google.android.apps.docs-1/base.apk=com.google.android.apps.docs
+
+package:/data/app/com.google.android.apps.maps-2/base.apk=com.google.android.apps.maps
+
+package:/data/app/com.google.android.apps.plus-1/base.apk=com.google.android.apps.plus
+
+package:/data/app/Mono.Android.Platform.ApiLevel_23-1/base.apk=Mono.Android.Platform.ApiLevel_23
+
+package:/data/app/Mono.Android.Platform.ApiLevel_24-1/base.apk=Mono.Android.Platform.ApiLevel_24
+
+package:/data/app/net.one97.paytm-2/base.apk=net.one97.paytm
+
+package:/system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk=com.android.cellbroadcastreceiver
+
+package:/data/app/com.google.android.webview-1/base.apk=com.google.android.webview
+
+package:/data/app/com.veloxcore.UITestSample.test-1/base.apk=com.veloxcore.UITestSample.test
+
+package:/data/app/GeolocatorSample.Droid-1/base.apk=GeolocatorSample.Droid
+
+package:/system/priv-app/PreloadContacts/PreloadContacts.apk=com.motorola.contacts.preloadcontacts
+
+package:/system/priv-app/Telecom/Telecom.apk=com.android.server.telecom
+
+package:/system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk=com.google.android.syncadapters.contacts
+
+package:/system/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk=com.motorola.android.providers.settings
+
+package:/system/app/FaceLock/FaceLock.apk=com.android.facelock
+
+package:/system/app/KeyChain/KeyChain.apk=com.android.keychain
+
+package:/data/app/com.android.chrome-1/base.apk=com.android.chrome
+
+package:/system/priv-app/Dialer/Dialer.apk=com.android.dialer
+
+package:/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk=com.google.android.packageinstaller
+
+package:/data/app/com.google.android.gms-2/base.apk=com.google.android.gms
+
+package:/system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk=com.google.android.gsf
+
+package:/data/app/com.google.android.tts-2/base.apk=com.google.android.tts
+
+package:/system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk=com.google.android.partnersetup
+
+package:/data/app/com.motorola.genie-2/base.apk=com.motorola.genie
+
+package:/system/priv-app/SetupWizardExt/SetupWizardExt.apk=com.motorola.setup
+
+package:/data/app/com.google.android.videos-2/base.apk=com.google.android.videos
+
+package:/data/app/com.motorola.contextual.smartrules2-1/base.apk=com.motorola.contextual.smartrules2
+
+package:/system/priv-app/AppDirectedSmsProxy/AppDirectedSmsProxy.apk=com.motorola.appdirectedsmsproxy
+
+package:/system/priv-app/ProxyHandler/ProxyHandler.apk=com.android.proxyhandler
+
+package:/system/priv-app/GoogleFeedback/GoogleFeedback.apk=com.google.android.feedback
+
+package:/data/app/com.google.android.apps.photos-2/base.apk=com.google.android.apps.photos
+
+package:/system/priv-app/UserPreferredSimProvider/UserPreferredSimProvider.apk=com.motorola.android.providers.userpreferredsim
+
+package:/data/app/com.google.android.calendar-2/base.apk=com.google.android.calendar
+
+package:/system/priv-app/MotoOneTimeInitializer/MotoOneTimeInitializer.apk=com.motorola.onetimeinitializer
+
+package:/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk=com.android.managedprovisioning
+
+package:/system/app/LauncherConfig/LauncherConfig.apk=com.motorola.launcherconfig
+
+package:/data/app/com.facebook.katana-2/base.apk=com.facebook.katana
+
+package:/system/priv-app/EmaraPhoneExtns/EmaraPhoneExtns.apk=com.motorola.emaraphoneextns
+
+package:/system/app/NoiseField/NoiseField.apk=com.android.noisefield
+
+package:/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk=com.android.providers.partnerbookmarks
+
+package:/system/priv-app/GoogleLoginService/GoogleLoginService.apk=com.google.android.gsf.login
+
+package:/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk=com.android.wallpaper.livepicker
+
+package:/system/priv-app/MotoCareInt/MotoCareInt.apk=com.motorola.motocare.internal
+
+package:/data/app/com.sbi.SBIFreedomPlus-1/base.apk=com.sbi.SBIFreedomPlus
+
+package:/system/priv-app/StorageOptimizer/StorageOptimizer.apk=com.motorola.storageoptimizer
+
+package:/data/app/com.google.android.inputmethod.korean-1/base.apk=com.google.android.inputmethod.korean
+
+package:/data/app/com.motorola.fmplayer-1/base.apk=com.motorola.fmplayer
+
+package:/data/app/com.google.android.apps.translate-1/base.apk=com.google.android.apps.translate
+
+package:/system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk=com.google.android.backuptransport
+
+package:/system/priv-app/AudioEffects/AudioEffects.apk=com.motorola.audioeffects
+
+package:/system/app/BookmarkProvider/BookmarkProvider.apk=com.android.bookmarkprovider
+
+package:/system/priv-app/Settings/Settings.apk=com.android.settings
+
+package:/data/app/com.google.android.inputmethod.pinyin-1/base.apk=com.google.android.inputmethod.pinyin
+
+package:/data/app/com.axis.mobile-2/base.apk=com.axis.mobile
+
+package:/system/app/Calculator/Calculator.apk=com.android.calculator2
+
+package:/data/app/com.google.android.apps.books-1/base.apk=com.google.android.apps.books
+
+package:/system/app/com.qualcomm.location/com.qualcomm.location.apk=com.qualcomm.location
+
+package:/data/app/cn.xender-2/base.apk=cn.xender
+
+package:/system/priv-app/LMIRescueSecurity/LMIRescueSecurity.apk=com.lmi.motorola.rescuesecurity
+
+package:/data/app/co.veloxcore.UITestSample2-1/base.apk=co.veloxcore.UITestSample2
+
+package:/system/app/LiveWallpapers/LiveWallpapers.apk=com.android.wallpaper
+
+package:/system/priv-app/VpnDialogs/VpnDialogs.apk=com.android.vpndialogs
+
+package:/data/app/com.google.android.talk-2/base.apk=com.google.android.talk
+
+package:/system/priv-app/ModemStatsService/ModemStatsService.apk=com.motorola.bach.modemstats
+
+package:/system/priv-app/Email/Email.apk=com.android.email
+
+package:/system/priv-app/TeleService/TeleService.apk=com.android.phone
+
+package:/system/priv-app/Shell/Shell.apk=com.android.shell
+
+package:/system/app/UserDictionaryProvider/UserDictionaryProvider.apk=com.android.providers.userdictionary
+
+package:/system/priv-app/FusedLocation/FusedLocation.apk=com.android.location.fused
+
+package:/system/priv-app/SystemUI/SystemUI.apk=com.android.systemui
+
+package:/system/app/Exchange2/Exchange2.apk=com.android.exchange
+
+package:/system/app/BluetoothMidiService/BluetoothMidiService.apk=com.android.bluetoothmidiservice
+
+package:/data/app/com.mediamonks.watchface.zoejordan-1/base.apk=com.mediamonks.watchface.zoejordan
+
+package:/data/app/com.google.android.apps.fireball-1/base.apk=com.google.android.apps.fireball
+
+package:/data/app/com.google.android.play.games-2/base.apk=com.google.android.play.games
+
+package:/data/app/com.google.android.apps.magazines-2/base.apk=com.google.android.apps.magazines
+
+package:/system/app/Bluetooth/Bluetooth.apk=com.android.bluetooth
+
+package:/system/app/TimeService/TimeService.apk=com.qualcomm.timeservice
+
+package:/system/priv-app/atfwd/atfwd.apk=com.qualcomm.atfwd
+
+package:/system/priv-app/ContactsProvider/ContactsProvider.apk=com.android.providers.contacts
+
+package:/system/app/CaptivePortalLogin/CaptivePortalLogin.apk=com.android.captiveportallogin
+
+package:/system/priv-app/DMService/DMService.apk=com.motorola.android.dm.service
+
+package:/data/app/com.google.android.inputmethod.latin-2/base.apk=com.google.android.inputmethod.latin
+
+
+22-10-2016 11:05:01.523 +05:30 - 7823 - Finished with exit code 0 in 147 ms.
+N: android=http://schemas.android.com/apk/res/android
+  E: manifest (line=2)
+    A: android:versionCode(0x0101021b)=(type 0x10)0x3
+    A: android:versionName(0x0101021c)="0.3.0" (Raw: "0.3.0")
+    A: package="co.veloxcore.UITestSample2.test" (Raw: "co.veloxcore.UITestSample2.test")
+    A: platformBuildVersionCode=(type 0x10)0x18 (Raw: "24")
+    A: platformBuildVersionName=(type 0x4)0x40e00000 (Raw: "7.0")
+    E: application (line=6)
+      A: android:label(0x01010001)="instrumentation_backend" (Raw: "instrumentation_backend")
+      A: android:largeHeap(0x0101035a)=(type 0x12)0xffffffff
+      E: uses-library (line=9)
+        A: android:name(0x01010003)="android.test.runner" (Raw: "android.test.runner")
+      E: uses-library (line=10)
+        A: android:name(0x01010003)="com.google.android.maps" (Raw: "com.google.android.maps")
+        A: android:required(0x0101028e)=(type 0x12)0x0
+      E: activity (line=11)
+        A: android:label(0x01010001)="WakeUp" (Raw: "WakeUp")
+        A: android:name(0x01010003)="sh.calaba.instrumentationbackend.WakeUp" (Raw: "sh.calaba.instrumentationbackend.WakeUp")
+        A: android:exported(0x01010010)=(type 0x12)0xffffffff
+        A: android:finishOnTaskLaunch(0x01010014)=(type 0x12)0xffffffff
+        A: android:stateNotNeeded(0x01010016)=(type 0x12)0xffffffff
+        A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+        A: android:launchMode(0x0101001d)=(type 0x10)0x3
+        A: android:noHistory(0x0101022d)=(type 0x12)0x0
+      E: activity (line=20)
+        A: android:label(0x01010001)="StatusReporterActivity" (Raw: "StatusReporterActivity")
+        A: android:name(0x01010003)="sh.calaba.instrumentationbackend.StatusReporterActivity" (Raw: "sh.calaba.instrumentationbackend.StatusReporterActivity")
+        A: android:exported(0x01010010)=(type 0x12)0xffffffff
+        A: android:finishOnTaskLaunch(0x01010014)=(type 0x12)0xffffffff
+        A: android:stateNotNeeded(0x01010016)=(type 0x12)0xffffffff
+        A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+        A: android:noHistory(0x0101022d)=(type 0x12)0xffffffff
+      E: activity (line=28)
+        A: android:label(0x01010001)="ResumeTaskActivity" (Raw: "ResumeTaskActivity")
+        A: android:name(0x01010003)="sh.calaba.instrumentationbackend.ResumeTaskActivity" (Raw: "sh.calaba.instrumentationbackend.ResumeTaskActivity")
+        A: android:exported(0x01010010)=(type 0x12)0xffffffff
+        A: android:finishOnTaskLaunch(0x01010014)=(type 0x12)0xffffffff
+        A: android:stateNotNeeded(0x01010016)=(type 0x12)0xffffffff
+        A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+        A: android:noHistory(0x0101022d)=(type 0x12)0xffffffff
+      E: activity (line=36)
+        A: android:theme(0x01010000)=@0x1030007
+        A: android:label(0x01010001)="FakeCameraActivity" (Raw: "FakeCameraActivity")
+        A: android:name(0x01010003)="sh.calaba.instrumentationbackend.FakeCameraActivity" (Raw: "sh.calaba.instrumentationbackend.FakeCameraActivity")
+        A: android:exported(0x01010010)=(type 0x12)0xffffffff
+        A: android:finishOnTaskLaunch(0x01010014)=(type 0x12)0xffffffff
+        A: android:stateNotNeeded(0x01010016)=(type 0x12)0xffffffff
+        A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+        A: android:noHistory(0x0101022d)=(type 0x12)0xffffffff
+      E: activity (line=45)
+        A: android:label(0x01010001)="FakePickerActivity" (Raw: "FakePickerActivity")
+        A: android:name(0x01010003)="sh.calaba.instrumentationbackend.FakePickerActivity" (Raw: "sh.calaba.instrumentationbackend.FakePickerActivity")
+        A: android:exported(0x01010010)=(type 0x12)0xffffffff
+        A: android:finishOnTaskLaunch(0x01010014)=(type 0x12)0xffffffff
+        A: android:stateNotNeeded(0x01010016)=(type 0x12)0xffffffff
+        A: android:excludeFromRecents(0x01010017)=(type 0x12)0xffffffff
+        A: android:noHistory(0x0101022d)=(type 0x12)0xffffffff
+    E: uses-sdk (line=54)
+      A: android:minSdkVersion(0x0101020c)=(type 0x10)0x4
+      A: android:targetSdkVersion(0x01010270)=(type 0x10)0x15
+    E: instrumentation (line=56)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.CalabashInstrumentationTestRunner" (Raw: "sh.calaba.instrumentationbackend.CalabashInstrumentationTestRunner")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: instrumentation (line=57)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.ClearAppData" (Raw: "sh.calaba.instrumentationbackend.ClearAppData")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: instrumentation (line=58)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.ClearAppData2" (Raw: "sh.calaba.instrumentationbackend.ClearAppData2")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: instrumentation (line=59)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.ClearPreferences" (Raw: "sh.calaba.instrumentationbackend.ClearPreferences")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: instrumentation (line=60)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.SetPreferences" (Raw: "sh.calaba.instrumentationbackend.SetPreferences")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: instrumentation (line=61)
+      A: android:name(0x01010003)="sh.calaba.instrumentationbackend.GetPreferences" (Raw: "sh.calaba.instrumentationbackend.GetPreferences")
+      A: android:targetPackage(0x01010021)="co.veloxcore.UITestSample2" (Raw: "co.veloxcore.UITestSample2")
+    E: uses-permission (line=63)
+      A: android:name(0x01010003)="android.permission.WRITE_EXTERNAL_STORAGE" (Raw: "android.permission.WRITE_EXTERNAL_STORAGE")
+    E: uses-permission (line=64)
+      A: android:name(0x01010003)="android.permission.ACCESS_MOCK_LOCATION" (Raw: "android.permission.ACCESS_MOCK_LOCATION")
+    E: uses-permission (line=65)
+      A: android:name(0x01010003)="android.permission.ACCESS_COARSE_LOCATION" (Raw: "android.permission.ACCESS_COARSE_LOCATION")
+    E: uses-permission (line=66)
+      A: android:name(0x01010003)="android.permission.ACCESS_FINE_LOCATION" (Raw: "android.permission.ACCESS_FINE_LOCATION")
+    E: uses-permission (line=67)
+      A: android:name(0x01010003)="android.permission.INTERNET" (Raw: "android.permission.INTERNET")
+    E: uses-permission (line=68)
+      A: android:name(0x01010003)="android.permission.GET_TASKS" (Raw: "android.permission.GET_TASKS")
+    E: uses-permission (line=69)
+      A: android:name(0x01010003)="android.permission.REORDER_TASKS" (Raw: "android.permission.REORDER_TASKS")
+    E: uses-permission (line=70)
+      A: android:name(0x01010003)="android.permission.CAMERA" (Raw: "android.permission.CAMERA")
+
+22-10-2016 11:05:01.865 +05:30 - 8165 - Finished with exit code 0 in 249 ms.
+-rw-r--r-- system   system     608621 2016-10-21 17:02 base.apk
+
+
+22-10-2016 11:05:01.872 +05:30 - 8172 - Skipping installation: Already installed.
+22-10-2016 11:05:03.174 +05:30 - 9474 - Finished with exit code 0 in 1296 ms.
+package:com.skype.raider
+
+package:com.google.android.youtube
+
+package:com.motorola.motocare
+
+package:com.android.providers.telephony
+
+package:com.google.android.gallery3d
+
+package:com.google.android.googlequicksearchbox
+
+package:com.android.providers.calendar
+
+package:com.android.providers.media
+
+package:com.google.android.onetimeinitializer
+
+package:com.motorola.bug2go
+
+package:com.motorola.camera
+
+package:com.android.wallpapercropper
+
+package:com.motorola.ccc.devicemanagement
+
+package:com.motorola.android.fmradio
+
+package:com.android.documentsui
+
+package:com.motorola.android.settings.modemdebug
+
+package:com.android.externalstorage
+
+package:com.android.htmlviewer
+
+package:com.android.mms.service
+
+package:com.android.providers.downloads
+
+package:com.motorola.coresettingsext
+
+package:com.motorola.wappushsi
+
+package:com.motorola.android.settings.diag_mdlog
+
+package:com.motorola.ccc.checkin
+
+package:com.motorola.ccc.mainplm
+
+package:co.veloxcore.UITestSample2.test
+
+package:com.motorola.motgeofencesvc
+
+package:com.google.android.configupdater
+
+package:com.motorola.ccc.ota
+
+package:com.motorola.ccc.notification
+
+package:com.android.defcontainer
+
+package:com.qualcomm.services.location
+
+package:Mono.Android.DebugRuntime
+
+package:com.android.providers.downloads.ui
+
+package:com.android.vending
+
+package:XamarinUITest.Droid
+
+package:com.android.pacprocessor
+
+package:com.motorola.bodyguard
+
+package:com.flipkart.android
+
+package:com.android.certinstaller
+
+package:com.android.carrierconfig
+
+package:com.google.android.marvin.talkback
+
+package:android
+
+package:com.android.contacts
+
+package:com.motorola.android.provisioning
+
+package:com.motorola.context
+
+package:com.google.android.apps.inputmethod.hindi
+
+package:com.android.mms
+
+package:com.android.stk
+
+package:com.android.backupconfirm
+
+package:com.instagram.android
+
+package:com.google.android.launcher
+
+package:com.google.android.deskclock
+
+package:com.android.statementservice
+
+package:com.google.android.gm
+
+package:com.motorola.moodles
+
+package:com.motorola.motocit
+
+package:com.android.wallpaper.holospiral
+
+package:com.android.phasebeam
+
+package:com.google.android.setupwizard
+
+package:com.qualcomm.qcrilmsgtunnel
+
+package:com.android.providers.settings
+
+package:com.android.sharedstoragebackup
+
+package:com.google.android.music
+
+package:com.android.printspooler
+
+package:com.motorola.android.sepolicyupdate
+
+package:com.android.dreams.basic
+
+package:com.motorola.MotGallery2
+
+package:com.android.inputdevices
+
+package:com.estrongs.android.pop
+
+package:com.motorola.android.nativedropboxagent
+
+package:com.android.providers.calllogbackup
+
+package:co.esconsulting.Barcoder250
+
+package:com.motorola.android.jvtcmd
+
+package:com.motorola.motosignature.app
+
+package:com.google.android.apps.cloudprint
+
+package:com.google.android.apps.docs
+
+package:com.google.android.apps.maps
+
+package:com.google.android.apps.plus
+
+package:Mono.Android.Platform.ApiLevel_23
+
+package:Mono.Android.Platform.ApiLevel_24
+
+package:net.one97.paytm
+
+package:com.android.cellbroadcastreceiver
+
+package:com.google.android.webview
+
+package:com.veloxcore.UITestSample.test
+
+package:GeolocatorSample.Droid
+
+package:com.motorola.contacts.preloadcontacts
+
+package:com.android.server.telecom
+
+package:com.google.android.syncadapters.contacts
+
+package:com.motorola.android.providers.settings
+
+package:com.android.facelock
+
+package:com.android.keychain
+
+package:com.android.chrome
+
+package:com.android.dialer
+
+package:com.google.android.packageinstaller
+
+package:com.google.android.gms
+
+package:com.google.android.gsf
+
+package:com.google.android.tts
+
+package:com.google.android.partnersetup
+
+package:com.motorola.genie
+
+package:com.motorola.setup
+
+package:com.google.android.videos
+
+package:com.motorola.contextual.smartrules2
+
+package:com.motorola.appdirectedsmsproxy
+
+package:com.android.proxyhandler
+
+package:com.google.android.feedback
+
+package:com.google.android.apps.photos
+
+package:com.motorola.android.providers.userpreferredsim
+
+package:com.google.android.calendar
+
+package:com.motorola.onetimeinitializer
+
+package:com.android.managedprovisioning
+
+package:com.motorola.launcherconfig
+
+package:com.facebook.katana
+
+package:com.motorola.emaraphoneextns
+
+package:com.android.noisefield
+
+package:com.android.providers.partnerbookmarks
+
+package:com.google.android.gsf.login
+
+package:com.android.wallpaper.livepicker
+
+package:com.motorola.motocare.internal
+
+package:com.sbi.SBIFreedomPlus
+
+package:com.motorola.storageoptimizer
+
+package:com.google.android.inputmethod.korean
+
+package:com.motorola.fmplayer
+
+package:com.google.android.apps.translate
+
+package:com.google.android.backuptransport
+
+package:com.motorola.audioeffects
+
+package:com.android.bookmarkprovider
+
+package:com.android.settings
+
+package:com.google.android.inputmethod.pinyin
+
+package:com.axis.mobile
+
+package:com.android.calculator2
+
+package:com.google.android.apps.books
+
+package:com.qualcomm.location
+
+package:cn.xender
+
+package:com.lmi.motorola.rescuesecurity
+
+package:co.veloxcore.UITestSample2
+
+package:com.android.wallpaper
+
+package:com.android.vpndialogs
+
+package:com.google.android.talk
+
+package:com.motorola.bach.modemstats
+
+package:com.android.email
+
+package:com.android.phone
+
+package:com.android.shell
+
+package:com.android.providers.userdictionary
+
+package:com.android.location.fused
+
+package:com.android.systemui
+
+package:com.android.exchange
+
+package:com.android.bluetoothmidiservice
+
+package:com.mediamonks.watchface.zoejordan
+
+package:com.google.android.apps.fireball
+
+package:com.google.android.play.games
+
+package:com.google.android.apps.magazines
+
+package:com.android.bluetooth
+
+package:com.qualcomm.timeservice
+
+package:com.qualcomm.atfwd
+
+package:com.android.providers.contacts
+
+package:com.android.captiveportallogin
+
+package:com.motorola.android.dm.service
+
+package:com.google.android.inputmethod.latin
+
+
+22-10-2016 11:05:05.131 +05:30 - 11431 - Finished with exit code 0 in 1949 ms.
+Starting: Intent { cmp=co.veloxcore.UITestSample2.test/sh.calaba.instrumentationbackend.StatusReporterActivity (has extras) }
+
+
+22-10-2016 11:05:06.647 +05:30 - 12947 - Finished with exit code 0 in 1512 ms.
+
+22-10-2016 11:05:06.865 +05:30 - 13165 - Finished with exit code 0 in 209 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_failure.out: No such file or directory
+
+
+22-10-2016 11:05:07.065 +05:30 - 13365 - Finished with exit code 0 in 196 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_finished.out: No such file or directory
+
+
+22-10-2016 11:05:07.261 +05:30 - 13561 - Finished with exit code 0 in 191 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_failure.out: No such file or directory
+
+
+22-10-2016 11:05:07.462 +05:30 - 13762 - Finished with exit code 0 in 197 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_finished.out: No such file or directory
+
+
+22-10-2016 11:05:07.671 +05:30 - 13971 - Finished with exit code 0 in 204 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_failure.out: No such file or directory
+
+
+22-10-2016 11:05:07.862 +05:30 - 14162 - Finished with exit code 0 in 186 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_finished.out: No such file or directory
+
+
+22-10-2016 11:05:08.054 +05:30 - 14354 - Finished with exit code 0 in 188 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_failure.out: No such file or directory
+
+
+22-10-2016 11:05:08.267 +05:30 - 14567 - Finished with exit code 0 in 208 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_finished.out: No such file or directory
+
+
+22-10-2016 11:05:08.533 +05:30 - 14833 - Finished with exit code 0 in 250 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_failure.out: No such file or directory
+
+
+22-10-2016 11:05:08.880 +05:30 - 15180 - Finished with exit code 0 in 339 ms.
+/data/data/co.veloxcore.UITestSample2.test/files/calabash_finished.out
+
+
+22-10-2016 11:05:09.216 +05:30 - 15516 - Finished with exit code 0 in 317 ms.
+SUCCESSFUL
+
+22-10-2016 11:05:09.534 +05:30 - 15834 - Finished with exit code 0 in 308 ms.
+WINDOW MANAGER WINDOWS (dumpsys window windows)
+
+  Window #8 Window{c8a9e48 u0 NavigationBar}:
+
+    mDisplayId=0 stackId=0 mSession=Session{add5d71 2756:u0a10001} mClient=android.os.BinderProxy@7c30eb
+
+    mOwnerUid=10001 mShowToOwnerOnly=false package=com.android.systemui appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#20 ty=2019 fl=#1840068 fmt=-3}
+
+    Requested w=720 h=96 mLayoutSeq=22616
+
+    mBaseLayer=211000 mSubLayer=0 mAnimLayer=211000+0=211000 mLastLayer=211000
+
+    mToken=WindowToken{84faf95 null}
+
+    mRootToken=WindowToken{84faf95 null}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=false
+
+    mSeq=0 mSystemUiVisibility=0x0
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=false mShownFrame=[0.0,1184.0][720.0,1280.0] isReadyForDisplay()=false
+
+    mFrame=[0,1184][720,1280] last=[0,1184][720,1280]
+
+    mSystemDecorRect=[0,0][720,96] last=[0,0][0,0]
+
+    Frames: containing=[0,1184][720,1280] parent=[0,1184][720,1280]
+
+        display=[0,1184][720,1280] overscan=[0,1184][720,1280]
+
+        content=[0,1184][720,1280] visible=[0,1184][720,1280]
+
+        decor=[0,0][0,0]
+
+        outset=[0,1184][720,1280]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0] stable=[0,0][0,0] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0] stable=[0,0][0,0] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{3ab58aa NavigationBar}:
+
+      mAnimating=false mLocalAnimating=false mAnimationIsEntrance=true mAnimation=null
+
+  Window #7 Window{5c2a2e2 u0 StatusBar}:
+
+    mDisplayId=0 stackId=0 mSession=Session{add5d71 2756:u0a10001} mClient=android.os.BinderProxy@f195fad
+
+    mOwnerUid=10001 mShowToOwnerOnly=false package=com.android.systemui appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) gr=#30 sim=#10 ty=2000 fl=#81960040 pfl=0x400 fmt=-3 or=5 vsysui=0x600 if=0x4 userActivityTimeout=10000}
+
+    Requested w=720 h=48 mLayoutSeq=22767
+
+    mBaseLayer=161000 mSubLayer=0 mAnimLayer=161000+0=161000 mLastLayer=161000
+
+    mToken=WindowToken{84faf95 null}
+
+    mRootToken=WindowToken{84faf95 null}
+
+    mViewVisibility=0x0 mHaveFrame=true mObscured=false
+
+    mSeq=0 mSystemUiVisibility=0x600
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=true mShownFrame=[0.0,0.0][720.0,1280.0] isReadyForDisplay()=true
+
+    mFrame=[0,0][720,1280] last=[0,0][720,1280]
+
+    mSystemDecorRect=[0,0][720,1280] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1280] parent=[0,0][720,1280]
+
+        display=[0,0][720,1280] overscan=[0,0][720,1184]
+
+        content=[0,0][720,1184] visible=[0,0][720,1184]
+
+        decor=[0,0][0,0]
+
+        outset=[0,0][720,1184]
+
+    Cur insets: overscan=[0,0][0,96] content=[0,0][0,96] visible=[0,0][0,96] stable=[0,0][0,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,96] content=[0,0][0,96] visible=[0,0][0,96] stable=[0,0][0,96] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{274bc9b StatusBar}:
+
+      mAnimating=false mLocalAnimating=false mAnimationIsEntrance=true mAnimation=null
+
+      mSurface=Surface(name=StatusBar)
+
+      mDrawState=HAS_DRAWN mLastHidden=false
+
+      Surface: shown=true layer=161000 alpha=1.0 rect=(0.0,0.0) 720.0 x 1280.0
+
+    mLastFreezeDuration=+4d15h27m4s845ms
+
+    mDrawLock=WakeLock{80db838 held=false, refCount=0}
+
+  Window #6 Window{b6fa152 u0 KeyguardScrim}:
+
+    mDisplayId=0 stackId=0 mSession=Session{5b31a30 1803:1000} mClient=android.view.ViewRootImpl$W@8da91dd
+
+    mOwnerUid=1000 mShowToOwnerOnly=false package=android appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#10 ty=2029 fl=#1110900 pfl=0x1 fmt=-3 or=5 vsysui=0x3610000}
+
+    Requested w=720 h=1184 mLayoutSeq=40
+
+    mBaseLayer=141000 mSubLayer=0 mAnimLayer=141000+0=141000 mLastLayer=141000
+
+    mToken=WindowToken{84faf95 null}
+
+    mRootToken=WindowToken{84faf95 null}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=false
+
+    mSeq=0 mSystemUiVisibility=0x3610000
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=false mShownFrame=[0.0,0.0][720.0,1184.0] isReadyForDisplay()=false
+
+    mFrame=[0,0][720,1184] last=[0,0][720,1184]
+
+    mSystemDecorRect=[0,0][720,1184] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1184] parent=[0,0][720,1184]
+
+        display=[0,0][720,1184] overscan=[0,0][720,1280]
+
+        content=[0,48][720,1184] visible=[0,48][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,48][0,0] visible=[0,48][0,0] stable=[0,48][0,0] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,48][0,0] visible=[0,48][0,0] stable=[0,48][0,0] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{f48b011 KeyguardScrim}:
+
+  Window #5 Window{af3ffab u0 com.android.systemui.ImageWallpaper}:
+
+    mDisplayId=0 stackId=0 mSession=Session{add5d71 2756:u0a10001} mClient=android.os.BinderProxy@7007dfa
+
+    mOwnerUid=10001 mShowToOwnerOnly=true package=com.android.systemui appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(1440x1280) gr=#800033 ty=2013 fl=#318 fmt=2 wanim=0x10302ea}
+
+    Requested w=1440 h=1280 mLayoutSeq=22767
+
+    mIsImWindow=false mIsWallpaper=true mIsFloatingLayer=true mWallpaperVisible=true
+
+    mBaseLayer=21000 mSubLayer=0 mAnimLayer=41005+0=41005 mLastLayer=41005
+
+    mToken=WindowToken{4885049 android.os.Binder@41c334d}
+
+    mRootToken=WindowToken{4885049 android.os.Binder@41c334d}
+
+    mViewVisibility=0x0 mHaveFrame=true mObscured=false
+
+    mSeq=0 mSystemUiVisibility=0x0
+
+    Offsets x=-240 y=0
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=true mShownFrame=[-240.0,0.0][1200.0,1280.0] isReadyForDisplay()=true
+
+    mFrame=[0,0][1440,1280] last=[0,0][1440,1280]
+
+    mSystemDecorRect=[240,0][960,1280] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1280] parent=[0,0][720,1280]
+
+        display=[-10000,-10000][10000,10000] overscan=[0,0][720,1280]
+
+        content=[0,0][720,1280] visible=[0,48][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][720,1280]
+
+    Cur insets: overscan=[0,0][720,0] content=[0,0][720,0] visible=[0,48][720,96] stable=[0,48][720,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][720,0] content=[0,0][720,0] visible=[0,48][720,96] stable=[0,48][720,96] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{7f69d4e com.android.systemui.ImageWallpaper}:
+
+      mAnimating=false mLocalAnimating=false mAnimationIsEntrance=true mAnimation=null
+
+      mSurface=Surface(name=com.android.systemui.ImageWallpaper)
+
+      mDrawState=HAS_DRAWN mLastHidden=false
+
+      Surface: shown=true layer=41005 alpha=1.0 rect=(-240.0,0.0) 1440.0 x 1280.0
+
+    mLastFreezeDuration=+4d10h57m41s138ms
+
+    mWallpaperX=0.33333334 mWallpaperY=0.5
+
+    mWallpaperXStep=0.33333334 mWallpaperYStep=1.0
+
+  Window #4 Window{5d03b7e u0 AssistPreviewPanel}:
+
+    mDisplayId=0 stackId=0 mSession=Session{add5d71 2756:u0a10001} mClient=android.os.BinderProxy@49c939
+
+    mOwnerUid=10001 mShowToOwnerOnly=true package=com.android.systemui appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillx500) gr=#800053 sim=#31 ty=2033 fl=#1000118 fmt=-3 vsysui=0x700}
+
+    Requested w=0 h=0 mLayoutSeq=9417
+
+    mBaseLayer=41000 mSubLayer=0 mAnimLayer=41000+0=41000 mLastLayer=0
+
+    mToken=WindowToken{84faf95 null}
+
+    mRootToken=WindowToken{84faf95 null}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=true
+
+    mSeq=0 mSystemUiVisibility=0x700
+
+    mPolicyVisibility=false mPolicyVisibilityAfterAnim=false mAppOpVisibility=true mAttachedHidden=false
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=false mShownFrame=[0.0,0.0][0.0,0.0] isReadyForDisplay()=false
+
+    mFrame=[0,1184][720,1184] last=[0,0][0,0]
+
+    mSystemDecorRect=[0,0][0,0] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1184] parent=[0,0][720,1184]
+
+        display=[0,0][720,1184] overscan=[0,0][720,1184]
+
+        content=[0,1184][720,1184] visible=[0,1184][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0] stable=[0,0][0,0] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0] stable=[0,0][0,0] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{8e2ed9a AssistPreviewPanel}:
+
+      mShownAlpha=0.0 mAlpha=1.0 mLastAlpha=0.0
+
+  Window #3 Window{9936dc1 u0 InputMethod}:
+
+    mDisplayId=0 stackId=0 mSession=Session{ca65d9a 3173:u0a10069} mClient=android.os.BinderProxy@7db1ea8
+
+    mOwnerUid=10069 mShowToOwnerOnly=true package=com.google.android.apps.inputmethod.hindi appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) gr=#50 sim=#20 ty=2011 fl=#800108 fmt=-2 wanim=0x1030056 vsysui=0x300 needsMenuKey=2}
+
+    Requested w=720 h=1232 mLayoutSeq=22079
+
+    mIsImWindow=true mIsWallpaper=false mIsFloatingLayer=true mWallpaperVisible=false
+
+    mBaseLayer=121000 mSubLayer=0 mAnimLayer=21015+0=21015 mLastLayer=21030
+
+    mToken=WindowToken{f021fe4 android.os.Binder@ef22293}
+
+    mRootToken=WindowToken{f021fe4 android.os.Binder@ef22293}
+
+    mTargetAppToken=AppWindowToken{521524f token=Token{642a4ae ActivityRecord{7ac5929 u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity t530}}}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=true
+
+    mSeq=0 mSystemUiVisibility=0x300
+
+    mPolicyVisibility=false mPolicyVisibilityAfterAnim=false mAppOpVisibility=true mAttachedHidden=false
+
+    mGivenContentInsets=[0,1136][0,0] mGivenVisibleInsets=[0,636][0,0]
+
+    mTouchableInsets=3 mGivenInsetsPending=false
+
+    touchable region=SkRegion((0,684,720,1184))
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=false mShownFrame=[0.0,48.0][720.0,1280.0] isReadyForDisplay()=false
+
+    mFrame=[0,48][720,1280] last=[0,48][720,1280]
+
+    mSystemDecorRect=[0,0][720,1232] last=[0,0][0,0]
+
+    Frames: containing=[0,48][720,1280] parent=[0,48][720,1280]
+
+        display=[0,48][720,1280] overscan=[0,48][720,1280]
+
+        content=[0,48][720,1184] visible=[0,48][720,1184]
+
+        decor=[0,0][0,0]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,0][0,96] visible=[0,0][0,96] stable=[0,0][0,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,0][0,96] visible=[0,0][0,96] stable=[0,0][0,96] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{7f73c4d InputMethod}:
+
+      mShownAlpha=1.0 mAlpha=1.0 mLastAlpha=0.0
+
+  Window #2 Window{785534a u0 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL}:
+
+    mDisplayId=0 stackId=0 mSession=Session{a867b9f 29391:u0a10030} mClient=android.os.BinderProxy@40070b5
+
+    mOwnerUid=10030 mShowToOwnerOnly=true package=com.google.android.googlequicksearchbox appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#120 ty=1 fl=#81910100 fmt=-3 wanim=0x103045b vsysui=0x700 needsMenuKey=2}
+
+    Requested w=720 h=1280 mLayoutSeq=22767
+
+    mBaseLayer=21000 mSubLayer=0 mAnimLayer=21010+0=21010 mLastLayer=21015
+
+    mToken=AppWindowToken{7d882e9 token=Token{d362db3 ActivityRecord{f25ff22 u0 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL t82}}}
+
+    mRootToken=AppWindowToken{7d882e9 token=Token{d362db3 ActivityRecord{f25ff22 u0 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL t82}}}
+
+    mAppToken=AppWindowToken{7d882e9 token=Token{d362db3 ActivityRecord{f25ff22 u0 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL t82}}}
+
+    mViewVisibility=0x0 mHaveFrame=true mObscured=true
+
+    mSeq=0 mSystemUiVisibility=0x700
+
+    mPolicyVisibility=false mPolicyVisibilityAfterAnim=false mAppOpVisibility=true mAttachedHidden=false
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=true mShownFrame=[0.0,0.0][720.0,1280.0] isReadyForDisplay()=false
+
+    mFrame=[0,0][720,1280] last=[0,0][720,1280]
+
+    mSystemDecorRect=[0,0][720,1280] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1280] parent=[0,0][720,1280]
+
+        display=[0,0][720,1280] overscan=[0,0][720,1280]
+
+        content=[0,48][720,1184] visible=[0,48][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,48][0,96] visible=[0,48][0,96] stable=[0,48][0,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,48][0,96] visible=[0,48][0,96] stable=[0,48][0,96] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{a253dc1 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL}:
+
+      mSurface=Surface(name=com.google.android.googlequicksearchbox/com.google.android.launcher.GEL)
+
+      mDrawState=HAS_DRAWN mLastHidden=true
+
+      Surface: shown=false layer=21010 alpha=0.0 rect=(0.0,0.0) 720.0 x 1280.0
+
+      mShownAlpha=1.0 mAlpha=1.0 mLastAlpha=-1.0
+
+    mWallpaperX=0.33333334 mWallpaperY=0.5
+
+    mWallpaperXStep=0.33333334 mWallpaperYStep=1.0
+
+  Window #1 Window{16bd203 u0 com.android.systemui/com.android.systemui.recents.RecentsActivity}:
+
+    mDisplayId=0 stackId=0 mSession=Session{add5d71 2756:u0a10001} mClient=android.os.BinderProxy@3f542b2
+
+    mOwnerUid=10001 mShowToOwnerOnly=true package=com.android.systemui appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#120 ty=1 fl=#81910100 fmt=-2 wanim=0x7f0e0005 vsysui=0x700 needsMenuKey=2}
+
+    Requested w=720 h=1280 mLayoutSeq=22467
+
+    mBaseLayer=21000 mSubLayer=0 mAnimLayer=21005+0=21005 mLastLayer=21010
+
+    mToken=AppWindowToken{c438a38 token=Token{576969b ActivityRecord{845aaa u0 com.android.systemui/.recents.RecentsActivity t87}}}
+
+    mRootToken=AppWindowToken{c438a38 token=Token{576969b ActivityRecord{845aaa u0 com.android.systemui/.recents.RecentsActivity t87}}}
+
+    mAppToken=AppWindowToken{c438a38 token=Token{576969b ActivityRecord{845aaa u0 com.android.systemui/.recents.RecentsActivity t87}}}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=true
+
+    mSeq=0 mSystemUiVisibility=0x700
+
+    mPolicyVisibility=false mPolicyVisibilityAfterAnim=false mAppOpVisibility=true mAttachedHidden=false
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+    mHasSurface=false mShownFrame=[0.0,0.0][720.0,1280.0] isReadyForDisplay()=false
+
+    mFrame=[0,0][720,1280] last=[0,0][720,1280]
+
+    mSystemDecorRect=[0,0][720,1280] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1280] parent=[0,0][720,1280]
+
+        display=[0,0][720,1280] overscan=[0,0][720,1280]
+
+        content=[0,48][720,1184] visible=[0,48][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,48][0,96] visible=[0,48][0,96] stable=[0,48][0,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,48][0,96] visible=[0,48][0,96] stable=[0,48][0,96] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{ab35650 com.android.systemui/com.android.systemui.recents.RecentsActivity}:
+
+  Window #0 Window{f8b25bb u0 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}:
+
+    mDisplayId=0 stackId=12 mSession=Session{b6a40c4 27315:u0a10097} mClient=android.os.BinderProxy@823324a
+
+    mOwnerUid=10097 mShowToOwnerOnly=true package=com.estrongs.android.pop appop=NONE
+
+    mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#130 ty=1 fl=#81810100 wanim=0x1030001 vsysui=0x700 needsMenuKey=2}
+
+    Requested w=720 h=1280 mLayoutSeq=22741
+
+    mBaseLayer=21000 mSubLayer=0 mAnimLayer=21000+0=21000 mLastLayer=0
+
+    mToken=AppWindowToken{239f3b9 token=Token{ec0a180 ActivityRecord{837de03 u0 com.estrongs.android.pop/.view.FileExplorerActivity t334}}}
+
+    mRootToken=AppWindowToken{239f3b9 token=Token{ec0a180 ActivityRecord{837de03 u0 com.estrongs.android.pop/.view.FileExplorerActivity t334}}}
+
+    mAppToken=AppWindowToken{239f3b9 token=Token{ec0a180 ActivityRecord{837de03 u0 com.estrongs.android.pop/.view.FileExplorerActivity t334}}}
+
+    mViewVisibility=0x8 mHaveFrame=true mObscured=true
+
+    mSeq=0 mSystemUiVisibility=0x700
+
+    mPolicyVisibility=false mPolicyVisibilityAfterAnim=false mAppOpVisibility=true mAttachedHidden=false
+
+    mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+
+    mConfiguration={1.0 ?mcc?mnc ?locale ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/??spn}
+
+    mHasSurface=false mShownFrame=[0.0,0.0][0.0,0.0] isReadyForDisplay()=false
+
+    mFrame=[0,0][720,1280] last=[0,0][0,0]
+
+    mSystemDecorRect=[0,0][0,0] last=[0,0][0,0]
+
+    Frames: containing=[0,0][720,1280] parent=[0,0][720,1280]
+
+        display=[0,0][720,1280] overscan=[0,0][720,1280]
+
+        content=[0,48][720,1184] visible=[0,48][720,1184]
+
+        decor=[0,0][720,1280]
+
+        outset=[0,0][0,0]
+
+    Cur insets: overscan=[0,0][0,0] content=[0,48][0,96] visible=[0,48][0,96] stable=[0,48][0,96] outsets=[0,0][0,0]
+
+    Lst insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0] stable=[0,0][0,0] physical=[0,0][0,0] outset=[0,0][0,0]
+
+    WindowStateAnimator{5d5cab4 com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}:
+
+      mShownAlpha=0.0 mAlpha=1.0 mLastAlpha=0.0
+
+
+
+  mCurConfiguration={1.0 405mcc927mnc en_IN ldltr sw360dp w360dp h568dp 320dpi nrml port finger -keyb/v/h -nav/h s.25?spn}
+
+  mHasPermanentDpad=false
+
+  mCurrentFocus=Window{5c2a2e2 u0 StatusBar}
+
+  mFocusedApp=AppWindowToken{7d882e9 token=Token{d362db3 ActivityRecord{f25ff22 u0 com.google.android.googlequicksearchbox/com.google.android.launcher.GEL t82}}}
+
+  mInputMethodTarget=Window{ab0de99 u0 com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity}
+
+  mInTouchMode=true mLayoutSeq=22767
+
+  mLastDisplayFreezeDuration=+341ms due to Window{5c2a2e2 u0 StatusBar}
+
+  mSystemDecorLayer=161000 mScreenRect=[0,0][720,1280]
+
+  mLastStatusBarVisibility=0x8600
+
+  mWallpaperTarget=Window{5c2a2e2 u0 StatusBar}
+
+  mLastWallpaperX=0.33333334 mLastWallpaperY=0.5
+
+  mSystemBooted=true mDisplayEnabled=true
+
+  mTransactionSequence=35426
+
+  mDisplayFrozen=false windows=0 client=false apps=0 waitingForConfig=false
+
+  mRotation=0 mAltOrientation=false
+
+  mLastWindowForcedOrientation=5 mForcedAppOrientation=5
+
+  mDeferredRotationPauseCount=0
+
+  Animation settings: disabled=false window=1.0 transition=1.0 animator=1.0
+
+  mTraversalScheduled=false
+
+ mSkipAppTransitionAnimation=false
+
+  mLayoutToAnim:
+
+    mNextAppTransition=TRANSIT_UNSET
+
+    mAppTransitionState=APP_STATE_IDLE
+
+
+22-10-2016 11:05:11.026 +05:30 - 17326 - Finished with exit code 0 in 1482 ms.
+
+22-10-2016 11:05:11.030 +05:30 - 17330 - launchable activity set as 
+22-10-2016 11:05:11.196 +05:30 - 17496 - Finished with exit code 0 in 161 ms.
+
+22-10-2016 11:05:11.199 +05:30 - 17499 - Forwarded port 59197.
+22-10-2016 11:05:11.377 +05:30 - 17677 - HTTP POST { Url: { AbsolutePath: "/ping", AbsoluteUri: "http://127.0.0.1:59197/ping", LocalPath: "/ping", Authority: "127.0.0.1:59197", HostNameType: IPv4, IsDefaultPort: False, IsFile: False, IsLoopback: True, PathAndQuery: "/ping", Segments: [ "/", "ping" ], IsUnc: False, Host: "127.0.0.1", Port: 59197, Query: "", Fragment: "", Scheme: "http", OriginalString: "http://127.0.0.1:59197/ping", DnsSafeHost: "127.0.0.1", IdnHost: "127.0.0.1", IsAbsoluteUri: True, UserEscaped: False, UserInfo: "" } }
